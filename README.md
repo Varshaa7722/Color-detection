@@ -32,3 +32,5 @@ Using cv2.inRange(), masks are created for each color range to isolate the desir
 5. Apply Masks:
 
 The masks are applied to the original frame to extract and display the detected color regions.
+
+####NOTE: This project detects yellow objects as of now 
